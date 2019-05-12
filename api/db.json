@@ -1,0 +1,66 @@
+{
+  "streams": [
+    {
+      "title": "1st Stream",
+      "description": "1st",
+      "id": 1
+    },
+    {
+      "title": "1st Stream",
+      "description": "1st",
+      "id": 2
+    },
+    {
+      "title": "1st Stream",
+      "description": "1st",
+      "id": 3
+    },
+    {
+      "description": "2nd Stream",
+      "title": "2nd Stream",
+      "id": 4
+    },
+    {
+      "title": "New  stream",
+      "description": "Made by me",
+      "userId": "107681467634082597539",
+      "id": 5
+    },
+    {
+      "title": "New  stream",
+      "description": "Made by me",
+      "userId": "107681467634082597539",
+      "id": 6
+    },
+    {
+      "title": "Third stream",
+      "description": "wooo meee",
+      "userId": "107681467634082597539",
+      "id": 7
+    },
+    {
+      "title": "Neeeww",
+      "description": "lol",
+      "userId": "107681467634082597539",
+      "id": 8
+    },
+    {
+      "title": "Bacon",
+      "description": "woot",
+      "userId": "107681467634082597539",
+      "id": 9
+    },
+    {
+      "title": "First stream",
+      "description": "woot",
+      "userId": "107681467634082597539",
+      "id": 10
+    },
+    {
+      "title": "ddd",
+      "description": "ddd",
+      "userId": "107681467634082597539",
+      "id": 11
+    }
+  ]
+}
